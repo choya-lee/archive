@@ -117,11 +117,11 @@ a {
 }
 
 #donateBox #PayPal {
-	background-image: url(https://wugenqiang.js.org/images/02/paypal.svg);
+	background-image: url(https://cdn.jsdelivr.net/gh/choya-lee/archive@master/images/Sponsor/paypal.svg);
 }
 
 #donateBox>#QQPay {
-	background-image: url(https://wugenqiang.js.org/images/02/QQqianbao.png);
+	background-image: url(https://cdn.jsdelivr.net/gh/choya-lee/archive@master/images/Sponsor/QQqianbao.png);
 	line-height: 28px;
 }
 
@@ -130,11 +130,11 @@ a {
 }
 
 #donateBox #AliPay {
-	background-image: url(https://wugenqiang.js.org/images/02/alipay.svg);
+	background-image: url(https://cdn.jsdelivr.net/gh/choya-lee/archive@master/images/Sponsor/alipay.svg);
 }
 
 #donateBox #WeChat {
-	background-image: url(https://wugenqiang.js.org/images/02/wechat.svg);
+	background-image: url(https://cdn.jsdelivr.net/gh/choya-lee/archive@master/images/Sponsor/wechat.svg);
 }
 
 #QRBox {
@@ -170,7 +170,7 @@ a {
 	height: 24px;
 	left: calc(50% + 135px);
 	top: calc(50% - 30px);
-	background: no-repeat center center url(https://wugenqiang.js.org/images/02/github.svg);
+	background: no-repeat center center url(https://cdn.jsdelivr.net/gh/choya-lee/archive@master/images/Sponsor/github.svg);
 	background-size: contain;
 	opacity: 0.3;
 	transform: rotatez(15deg);
